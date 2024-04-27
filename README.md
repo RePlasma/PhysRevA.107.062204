@@ -11,3 +11,4 @@ Abstract: _For the three-wave interaction, the lowest-order nonlinear interactio
 Related papers:
 --------------
 - Shi et al PRA (2021) https://github.com/RePlasma/PhysRevA.103.062608
+- May et al (2024) https://github.com/RePlasma/2401.03995
